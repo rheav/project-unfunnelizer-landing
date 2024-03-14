@@ -4,7 +4,7 @@ import "./index.css";
 import App from "./App";
 import TagManager from "react-gtm-module";
 const tagManagerArgs = {
-  gtmId: "<ID do GTM tipo (GTM-PPQXNDT7)>",
+  gtmId: "GTM-PPQXNDT7>",
 };
 TagManager.initialize(tagManagerArgs);
 
