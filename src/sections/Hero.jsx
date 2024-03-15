@@ -41,10 +41,10 @@ const Hero = () => {
           <span className="text-transparent  bg-clip-text bg-gradient-to-r from-startCold to-endCold">
             Deconstruct
           </span>{" "}
-          the funnels of your
+          your competition's
           <span className="text-transparent  bg-clip-text bg-gradient-to-r from-startHot to-endHot">
             {" "}
-            competition
+            funnels
           </span>
         </h1>
         <p className="my-8 text-lg font-font dark:font-light text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-white">
